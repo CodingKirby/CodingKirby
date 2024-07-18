@@ -22,7 +22,7 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=B196FB&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+👋+I'm+KimJeongHyeon" alt="Typing SVG" /></a>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=CodingKirby&layout=compact&title_color=724cf9&text_color=724cf9&icon_color=724cf9&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/CodingKirby" width="30%">
+  <img src="https://github-readme-stats-one-alpha.vercel.app/api/top-langs/?username=CodingKirby&layout=compact&title_color=724cf9&text_color=724cf9&icon_color=724cf9&bg_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" width="30%">
   <img src ="https://github-readme-stats-one-alpha.vercel.app/api?username=CodingKirby&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=35,724cf9,b196fb,b370f9&include_all_commits=true&count_private=true&custom_title=CodingKirby's%20GitHub%20Report" width="40%">
 </div>
 
